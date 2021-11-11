@@ -1,4 +1,4 @@
-# CitiBikes
+# Citi Bikes
 
 This overview analysis explores trends in the Citi Bike program in Hoboken, NJ. This data was collected in September 2021. 
 
