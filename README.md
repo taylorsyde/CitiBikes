@@ -1,12 +1,15 @@
 # CitiBikes
 
-This overview analysis explores trends in the Citi Bike program in Jersey City. View my visulizations on Tablau
+This overview analysis explores trends in the Citi Bike program in Hoboken, NJ. This data was collected in September 2021. 
+
+[Click here to view my visualizations on Tableau Public.](https://public.tableau.com/views/CitiBike_16360666444030/AverageTripDurationByDay?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-## Members vs. Casual Riders
-It's no surprise that the most popular stations for all users are within a block of Hoboken Terminal, one of area major transportaion hubs. While this area is popular for both causal users and members, the most popular station for members was __________. In addtion, it appears that the causal users are situated in the north and memebers in the south.   
+## Where are People Riding?
+The most popular stations for Hoboken Citi Bike users are within a block of Hoboken Terminal, one of the area's major transportation hubs.  This is true for both casual patrons and members.
+Based on the map, members tend to ride bikes in the southern part of Hoboken, while causal users tend to ride in the north.  
 
-
-- It appears that patrons take longer rides on Sundays. It's likely that most of these weekend rides are taken for lesuire rather than utility. 
-- When looking at all users, the stations located on the east side of Jersey City are the most popular stations. 
-- Memebers appear to be more densly located in _________________
+## When are People Riding?
+- It appears that patrons take longer their longest rides on Sundays. These are likely a result of leisure rather than utility. 
+- Wednesdays have the lowest average ride time of any other weekday.
+- Peak hours are from 5 to 6 pm, following the typical traffic patterns. 
